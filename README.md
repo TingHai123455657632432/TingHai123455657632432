@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @TingHai123455657632432
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="right" src="https://count.getloli.com/get/@:TingHai12345567632432?theme=rule34">
 
-<!---
-TingHai123455657632432/TingHai123455657632432 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 后端开发-邾头肉
+
+主攻Java、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论，喜欢尝试有趣的后端项目。
+
+
+
+### 开源项目
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+<br><br><br>
+
+### Github 活跃度
+
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
